@@ -3,8 +3,12 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+<<<<<<< HEAD
     "start": "next start",
     "seed": "node -r dotenv/config ./scripts/seed.js"
+=======
+    "start": "next start"
+>>>>>>> 1a455eeda2c870e0b99a9d6a35c1b64f2975b4b5
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
